@@ -1,3 +1,3 @@
 # Micro-Twitter
 
-This project attempts to recreate the a mock version of Twitter
+Ruby on Rails project to recreate the a mock version of Twitter
